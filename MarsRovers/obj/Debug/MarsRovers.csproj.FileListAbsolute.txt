@@ -1,0 +1,3 @@
+c:\users\joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers\bin\Debug\MarsRovers.exe.config
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\MarsRovers\MarsRovers\obj\Debug\MarsRovers.exe
+C:\Users\Joe\Documents\Visual Studio 2012\Projects\MarsRovers\MarsRovers\obj\Debug\MarsRovers.pdb

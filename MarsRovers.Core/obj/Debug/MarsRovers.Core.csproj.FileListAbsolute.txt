@@ -1,0 +1,5 @@
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.Core\bin\Debug\MarsRovers.Core.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.Core\bin\Debug\MarsRovers.Core.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.Core\obj\Debug\MarsRovers.Core.csprojResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.Core\obj\Debug\MarsRovers.Core.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.Core\obj\Debug\MarsRovers.Core.pdb

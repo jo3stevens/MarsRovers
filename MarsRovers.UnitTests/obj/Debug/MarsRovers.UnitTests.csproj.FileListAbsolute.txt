@@ -1,0 +1,9 @@
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\bin\Debug\MarsRovers.UnitTests.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\bin\Debug\MarsRovers.UnitTests.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\bin\Debug\MarsRovers.Core.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\bin\Debug\MarsRovers.Utilities.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\bin\Debug\MarsRovers.Core.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\bin\Debug\MarsRovers.Utilities.pdb
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\obj\Debug\MarsRovers.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\obj\Debug\MarsRovers.UnitTests.dll
+C:\Users\Joe\documents\visual studio 2012\Projects\MarsRovers\MarsRovers.UnitTests\obj\Debug\MarsRovers.UnitTests.pdb
